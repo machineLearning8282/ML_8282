@@ -1,1 +1,2 @@
-# ML_8282
+# Machine Learning Project
+[우리 주제]
